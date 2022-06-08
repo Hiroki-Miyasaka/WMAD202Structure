@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98b1a834-1691-4657-bbd2-19a13b863a9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WMAD202Structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-2022/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/ca/ciccc/wmad/assignment1/main/Assignment1Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/ca/ciccc/wmad/assignment1/question4/question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/ca/ciccc/wmad/assignment1/question5/question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/wmad202-assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/wmad/assignment10/main/Assignment10Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/wmad/assignment10/question1/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/wmad202-assignment10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/Assignment2Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question1/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/wmad202-assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/question1/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/wmad202-assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/src/ca/ciccc/wmad/assignment4/main/Assignment4Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/src/ca/ciccc/wmad/assignment4/question1/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/wmad202-assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/wmad/assignment5/main/Assignment5Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/wmad/assignment5/question1/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/wmad202-assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/main/Assignment6Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/wmad202-assignment6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/main/Assignment7Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question1/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/wmad202-assignment7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/main/Assignment8Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/question1/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/wmad202-assignment8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/wmad/assignment9/main/Assignment9Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/wmad/assignment9/question1/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/wmad202-assignment9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-lecture-code/wmad202-lecture-code.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AEWIuPLGDtSHrbZf8rvGRe84Bk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wmad202-assignment10" />
+      <recent name="$PROJECT_DIR$/wmad202-assignment10/src" />
+      <recent name="$PROJECT_DIR$/wmad202-assignment10/src/ca" />
+      <recent name="$PROJECT_DIR$/wmad202-assignment2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WMAD202Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ciccc.main.WMAD202Driver" />
+      <module name="wmad202-2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ciccc.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WMAD202Driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98b1a834-1691-4657-bbd2-19a13b863a9e" name="Changes" comment="" />
+      <created>1654575150857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654575150857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
