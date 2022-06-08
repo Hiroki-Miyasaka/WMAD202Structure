@@ -4,60 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98b1a834-1691-4657-bbd2-19a13b863a9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WMAD202Structure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-2022/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/ca/ciccc/wmad/assignment1/main/Assignment1Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/ca/ciccc/wmad/assignment1/question4/question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/ca/ciccc/wmad/assignment1/question5/question5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/wmad202-assignment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/wmad/assignment10/main/Assignment10Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/wmad/assignment10/question1/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/wmad202-assignment10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/Assignment2Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question1/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/wmad202-assignment2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/question1/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/wmad202-assignment3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/src/ca/ciccc/wmad/assignment4/main/Assignment4Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/src/ca/ciccc/wmad/assignment4/question1/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/wmad202-assignment4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/wmad/assignment5/main/Assignment5Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/wmad/assignment5/question1/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/wmad202-assignment5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/main/Assignment6Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/wmad202-assignment6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/main/Assignment7Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question1/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/wmad202-assignment7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/main/Assignment8Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/question1/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/wmad202-assignment8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/wmad/assignment9/main/Assignment9Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/wmad/assignment9/question1/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/wmad202-assignment9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-lecture-code/wmad202-lecture-code.iml" afterDir="false" />
-    </list>
+    <list default="true" id="98b1a834-1691-4657-bbd2-19a13b863a9e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
