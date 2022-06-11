@@ -1,3 +1,17 @@
+/*
+Consider two following mathematical functions:
+• F1(x) = 2^x
+• F2(x) = x^5
+• ^ means exponent. Example: 2^3 = 2*2*2 = 8
+
+The program should find the positive number (and greater than 3), (let’s call is T) which has
+the following characteristic:
+• For all numbers (x) which are less than T we have F1(x)< F2(x)
+• For x greater than or equal T (x>=T) we have F1(x)> F2(x)
+ */
+
+
+
 package ca.ciccc.wmad.assignment2.question10;
 
 import java.util.Random;

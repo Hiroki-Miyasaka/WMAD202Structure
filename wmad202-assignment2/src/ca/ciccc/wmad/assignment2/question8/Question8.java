@@ -1,3 +1,11 @@
+/*
+Implement the MonteCarlo approach to estimate the PI (=3.14) number. The solution exists in the
+lecture. Try the MonteCarlo approach for 100 tries, 1000 tries and 10000 tries and print the
+estimated value for PI for these numbers of tries.
+ */
+
+
+
 package ca.ciccc.wmad.assignment2.question8;
 
 import java.util.Random;

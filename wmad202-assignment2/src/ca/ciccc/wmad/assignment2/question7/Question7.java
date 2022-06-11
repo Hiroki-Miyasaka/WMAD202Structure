@@ -1,3 +1,14 @@
+/*
+Write a Java program which asks the user for a number which is the length of the side of
+a square. The program should find the area of a circle which is crossing from all corners
+of the square.
+- 44
+3 4 5
+A=π.r2
+ */
+
+
+
 package ca.ciccc.wmad.assignment2.question7;
 
 import java.util.Scanner;
