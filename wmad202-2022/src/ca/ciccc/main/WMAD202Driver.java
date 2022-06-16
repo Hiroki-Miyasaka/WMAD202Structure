@@ -2,8 +2,8 @@ package ca.ciccc.main;
 
 //import ca.ciccc.wmad.assignment1.main.Assignment1Driver;
 //import ca.ciccc.wmad.assignment10.main.Assignment10Driver;
-import ca.ciccc.wmad.assignment2.main.Assignment2Driver;
-//import ca.ciccc.wmad.assignment3.main.Assignment3Driver;
+//import ca.ciccc.wmad.assignment2.main.Assignment2Driver;
+import ca.ciccc.wmad.assignment3.main.Assignment3Driver;
 //import ca.ciccc.wmad.assignment4.main.Assignment4Driver;
 //import ca.ciccc.wmad.assignment5.main.Assignment5Driver;
 //import ca.ciccc.wmad.assignment6.main.Assignment6Driver;
@@ -15,8 +15,8 @@ import ca.ciccc.wmad.assignment2.main.Assignment2Driver;
 public class WMAD202Driver {
     public static void main(String[] args){
         //Assignment1Driver.run();
-        Assignment2Driver.run();
-        //Assignment3Driver.run();
+        //Assignment2Driver.run();
+        Assignment3Driver.run();
         //Assignment4Driver.run();
 //        Assignment5Driver.run();
 //        Assignment6Driver.run();

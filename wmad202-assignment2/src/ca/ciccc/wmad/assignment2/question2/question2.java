@@ -6,7 +6,7 @@
 //reverse is 351) and prints the result.
 
 
-        package ca.ciccc.wmad.assignment2.question2;
+package ca.ciccc.wmad.assignment2.question2;
 import java.util.Scanner;
 
 public class question2 {

@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98b1a834-1691-4657-bbd2-19a13b863a9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/question2/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/question3/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/question4/Question4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/Assignment2Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/Assignment2Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question10/Question10.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question10/Question10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question5/question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question5/question5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question6/Question6.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question6/Question6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question7/Question7.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question7/Question7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question8/Question8.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question8/Question8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question9/Question9.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question9/Question9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question2/question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/question2/question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/question1/question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/question1/question1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
   <component name="RecentsManager">
