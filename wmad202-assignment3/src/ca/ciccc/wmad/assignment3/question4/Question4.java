@@ -7,6 +7,7 @@ public class Question4 {
         int duplicateNum = 0;
         int count = 0;
         int temp = 0;
+        int tmpNum = 0;
         Arrays.sort(duplicateArray);
         for(int i = 0; i < duplicateArray.length - 1; i++){
             if(duplicateArray[i] == duplicateArray[i+1]){
@@ -16,6 +17,11 @@ public class Question4 {
                 duplicateNum = duplicateArray[i];
                 temp = 0;
             }
+            tmpNum = duplicateArray[i];
+        }
+        if(temp > count){
+            count = temp;
+            duplicateNum = tmpNum;
         }
         return duplicateNum;
     }
