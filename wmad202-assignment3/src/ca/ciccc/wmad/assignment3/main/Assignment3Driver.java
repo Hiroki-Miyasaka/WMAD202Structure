@@ -19,8 +19,8 @@ public class Assignment3Driver {
 //        Question2 q2 = new Question2();
 //        System.out.println(q2.searchBiggerPrimeNumber());
 
-//        Question3 q3 = new Question3();
-//        q3.shapeFunction(7, "SHAPE3");
+        Question3 q3 = new Question3();
+        q3.test();
 
 //        Question4 q4 = new Question4();
 //        System.out.println(q4.searchMultipleNumbers(new int[]{1, 6, 5, 6, 1, 6, 4, 5, 6, 5}));
@@ -38,7 +38,7 @@ public class Assignment3Driver {
 //            System.out.println(result.get(i));
 //        }
 
-        Question7 q7 = new Question7();
-        q7.takeNumbers();
+//        Question7 q7 = new Question7();
+//        q7.takeNumbers();
     }
 }

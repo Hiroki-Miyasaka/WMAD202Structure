@@ -1,3 +1,8 @@
+/*Design and implement a function which receives a positive integer as its input parameter -
+  and checks whether the number is a prime number or not. If it is a prime number, the
+  method returns true and if not the method will return false.
+*/
+
 package ca.ciccc.wmad.assignment3.question1;
 
 
