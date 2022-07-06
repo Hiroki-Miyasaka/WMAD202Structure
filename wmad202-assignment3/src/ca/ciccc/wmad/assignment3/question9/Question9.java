@@ -7,27 +7,26 @@ import java.util.*;
 
 public class Question9 {
     public void invoke(){
-        List<Integer> numbers = Arrays.asList(15,19,10,11,8,7,3,3,1);
+        int[] list1 = {15, 19, 19, 11, 8, 7, 3, 3, 1};
+        int index = 3;
 
-        for (int i= 0; i < numbers.size(); i++){
-            primeVisibility(numbers.get(i),i);
-        }
-
+        int getPrimeVisibility = getPrimeVisibility(list1, index);
+        System.out.println("Prime Visibility for index " + index + " is " + getPrimeVisibility);
 
     }
 
-    public void primeVisibility(int number, int index){
-        question1 question1 = new question1();
-        Map<Integer ,Integer> map = new HashMap<>();
-        if(question1.searchPrimeNumber(number)) {
-            map.put(index, 1);
-        }else {
-            map.put(index,0);
+    public static int getPrimeVisibility(int[] numbers, int index) {
+        question1 q1 = new question1();
+        if (index > numbers.length) {
+            index = numbers.length;
         }
 
-        Set<Map.Entry<Integer, Integer>> entrySet = map.entrySet();
-        for(Map.Entry<Integer ,Integer>  entry : entrySet) {
-            System.out.printf("%s : %d %n ", entry.getKey(),entry.getValue());
+        int primeVisibilityCounter = 0;
+        for (int i = 0; i < index; i++) {
+            if (q1.searchPrimeNumber(numbers[i])) {
+                primeVisibilityCounter++;
+            }
         }
+        return primeVisibilityCounter;
     }
 }
