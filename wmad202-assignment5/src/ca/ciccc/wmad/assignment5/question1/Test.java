@@ -20,11 +20,11 @@ public class Test {
 
         Student student2 = new Student("66553322", grades2, "James");
 
-        System.out.println("Hello world");
-        System.out.println(student1.calculateGPA());
+
+        student1.calculateGPA();
         student2.calculateGPA();
 
-        student1.compareGPA(student2);
+        System.out.println(student1.compareGPA(student2));
 
         student1.printStudentInfo();
     }
