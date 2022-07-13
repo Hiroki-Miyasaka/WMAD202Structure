@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98b1a834-1691-4657-bbd2-19a13b863a9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/wmad/assignment5/question2/question2_2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/wmad/assignment5/question2/question2_2/DigitalBookReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/wmad/assignment5/question2/question2_2/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/wmad/assignment5/question2/question2_2/Test2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question0/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question2/IShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question2/ShoppingCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/main/Assignment6Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/main/Assignment6Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/Cloth.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/Cloth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/wmad/assignment6/question1/Material.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
