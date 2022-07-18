@@ -10,7 +10,7 @@ public class Material {
         this.materialName = materialName;
     }
 
-    public Integer getMaterialCode(){return materialCode;}
+    public Integer getMaterialCode(){return this.materialCode;}
 
     public void setMaterialCode(Integer materialCode){
         this.materialCode = materialCode;
