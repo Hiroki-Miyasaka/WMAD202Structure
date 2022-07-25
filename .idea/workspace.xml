@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98b1a834-1691-4657-bbd2-19a13b863a9e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/question1/Foo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/question2/ApplicationDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/question2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question3/GenericExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question3/TestQuestion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question4/GenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question4/TestQuestion4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question5/RelPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question5/TestQuestion5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/main/Assignment8Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/main/Assignment8Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/wmad/assignment8/question1/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question2/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/wmad/assignment7/question2/Algorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
