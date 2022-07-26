@@ -1,7 +1,7 @@
 package ca.ciccc.wmad.assignment8.question2;
 
 public class ApplicationDriver {
-    enum ShapeType {
+    public enum ShapeType {
         Rectangle,
         Triangle,
         Circle,
@@ -9,7 +9,7 @@ public class ApplicationDriver {
         Custom
     }
 
-    public static void main(String[] args) {
+    public static void test() {
         int[] slSides = {10, 20};
         Shape s1 = new Shape(ShapeType.Rectangle, slSides) {
 
@@ -26,6 +26,7 @@ public class ApplicationDriver {
         };
         System.out.println("S1's perimeter is: " + s1.perimeter());
         System.out.println("S1's area is: " + s1.area());
+
         int[] slSides2 = {10, 10};
         Shape s2 = new Shape(ShapeType.Square, slSides2) {
 

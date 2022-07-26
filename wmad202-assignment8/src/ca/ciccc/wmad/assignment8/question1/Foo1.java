@@ -12,13 +12,14 @@ public class Foo1 {
         public Foo2(int x){
             super(x * 10);
         }
+
+        public void show(){
+            System.out.println("bar1 = " + bar1);
+            System.out.println("((Foo1)this).bar1 = " + ((Foo1)this).bar1);
+            System.out.println("Foo1.this.bar1 = " + Foo1.this.bar1);
+        }
     }
 
-    public void show(){
-        System.out.println("bar1 = " + bar1);
-        System.out.println("((Foo1)this.bar1 = " + ((Foo1)this).bar1);
-        System.out.println("Foo1.this.bar1 = " + Foo1.this.bar1);
-    }
 
     public static class Test64 {
         public void test(){
