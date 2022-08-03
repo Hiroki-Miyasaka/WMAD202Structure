@@ -6,7 +6,7 @@ public class TestExceptions {
             super(message);
         }
     }
-
+a
     class ExceptionA2 extends ExceptionA1 {
         ExceptionA2(String message){
             super(message);

@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98b1a834-1691-4657-bbd2-19a13b863a9e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/wmad/assignment10/question1/TestExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/wmad/assignment10/question2/TestExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/wmad/assignment9/question1/IntSuppplierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/wmad/assignment9/question1/ToDoubleBiFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/wmad/assignment9/question1/UnaryOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/wmad/assignment10/question1/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/wmad/assignment10/question2/TestExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/wmad/assignment10/question2/TestExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/wmad/assignment9/question1/question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/wmad/assignment9/question1/BiConsumerExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
